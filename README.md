@@ -1,3 +1,8 @@
+## Note
+This Node project implements Tencent-RTC's UserSig authentication, providing a secure server-side method for generating signatures to protect the keys from leakage.
+
+![](https://cloudcache.intl.tencent-cloud.com/cms/backend-cms/12569f72920411ef810152540055f650.png)
+
 ## npm integration
 ```shell 
 npm i tls-sig-api-v2
